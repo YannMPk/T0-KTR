@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import argparse
 
 parser = argparse.ArgumentParser(prog="star.py", usage="python %(prog)s <number>")
